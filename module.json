@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "quick-load",
+    "author": "Alteria / Pinkie Pie",
+    "description": "Removes useless loading screen when switching channels or teleporting nearby.",
+    "options": {
+        "niceName": "QuickLoad"
+    },
+    "servers": ["https://raw.githubusercontent.com/pepsimemen/quick-load/master/"],
+    "supportUrl": "https://github.com/pepsimemen/quick-load/issues"
+}

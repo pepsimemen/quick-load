@@ -1,0 +1,13 @@
+{
+    "files": {
+        "index.js": "f21a407eb178d2743b3aa8d2b6ac071e8b14aafa115483e9bc19ed29e9589891",
+        "module.json": "5a3a25a3e7e8a3ec9824770ea364becc26556162535fc9cfd1a937c3f9d5c75b"
+    },
+    "defs": {
+        "C_PLAYER_LOCATION": 5,
+        "S_ADMIN_HOLD_CHARACTER": 2,
+        "S_INSTANT_MOVE": 3,
+        "S_LOAD_TOPO": 3,
+        "S_SPAWN_ME": 3
+    }
+}
